@@ -1,0 +1,384 @@
+.container{
+  width: 1000px;
+  height: 88px;
+ 
+}
+#images {
+  width: 246px;
+  height: 56px;
+  position: absolute;
+  top: 16px;
+  left: 71px;
+  /* You can add other styles like background-image, background-color, etc. here */
+}
+#nav1 {
+  width: 173px;
+  height: 16px;
+  position: absolute;
+  top: 36.22px;
+  left: 450px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15.73px;
+  line-height: 15.73px;
+  text-align: center;
+  color: #2B2E66;
+  text-decoration: none;
+  /* You can add other styles like background color, border, padding, etc. here */
+}
+#nav2 {
+  width: 71px;
+  height: 16px;
+  position: absolute;
+  top: 36.22px;
+  left: 650px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15.73px;
+  line-height: 15.73px;
+  text-align: center;
+  color: #2B2E66;
+  text-decoration: none;
+  /* You can add other styles like background color, border, padding, etc. here */
+}
+#nav3 {
+  width: 88px;
+  height: 16px;
+  position: absolute;
+  top: 36.22px;
+  left: 750px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15.73px;
+  line-height: 15.73px;
+  text-align: center;
+  color: #2B2E66;
+  text-decoration: none;
+  /* You can add other styles like background color, border, padding, etc. here */
+}
+#nav4 {
+  width: 36px;
+  height: 16px;
+  position: absolute;
+  top: 36.22px;
+  left: 880px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15.73px;
+  line-height: 15.73px;
+  text-align: center;
+  color: #2B2E66;
+  text-decoration: none;
+  /* You can add other styles like background color, border, padding, etc. here */
+}
+#nav5 {
+  width: 90px;
+  height: 16px;
+  position: absolute;
+  top: 36.22px;
+  left: 950px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15.73px;
+  line-height: 15.73px;
+  text-align: center;
+  color: #2B2E66;
+  text-decoration: none;
+  /* You can add other styles like background color, border, padding, etc. here */
+}
+#nav6 {
+  width: 100px;
+  height: 20px;
+  position: absolute;
+  top: 21.24px;
+  left: 1070px;
+  padding: 16px 32px;
+  gap: 7.49px;
+  text-decoration: none;
+  color:white;
+  background-color: #2B2E66;
+  /* You can add other styles like background color, font properties, text color, etc. here */
+}
+#img1{
+  width: 1250px;
+  height: 600px;
+  top: 88px;
+}
+#box{
+  width: 250px;
+  height: 200px;
+  top: 170px;
+  left: 880px;
+  padding: 40px 40px 48px 40px;
+  gap: 48px;
+  background: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+#inbox{
+  width: 299.58px;
+height: 300.94px;
+}
+
+
+
+
+
+
+
+
+
+
+#img2{
+  width: 625px;
+height: 600px;
+top: 848px;
+
+}
+
+.custom-text {
+  width: 200px;
+  height: 20px;
+  margin-top: 900px;
+  margin-right: 300px;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2B2E66;
+  /* Set the text color to white */
+}
+#content{
+  width: 400px;
+  height: 50px;
+  position: absolute;
+  top: 868px;
+  margin-right: 300px;
+color:#2B2E66;
+}
+#c1{
+  width: 400px;
+  height: 50px;
+  position: absolute;
+  top: 868px;
+  margin-right: 300px;
+color:#2B2E66;
+  font-family: 'Roboto';
+font-size: 50px;
+font-weight: 500;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -1200px;
+}
+   
+
+#c2{
+
+
+  width: 500px;
+  height: 50px;
+  position: absolute;
+ margin-top: -270px;
+  margin-right: 300px;
+color:#2B2E66;
+  font-family: 'Roboto';
+font-size: 42px;
+font-weight: 300;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: 'Poppins';
+font-size: 56px;
+font-weight: 275;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+#sc {
+  width: 316px;
+  height: 27px;
+  position: absolute; /* This is important for positioning */
+  top:700px;
+  right: 200px;
+  margin-top: -40px;
+  color: #D6B25E;
+  font-family: 'Roboto';
+   /* You can set the background color as desired */
+  /* You can also add other styles like borders, text, etc. */
+}
+
+#boox{
+  width: 235px;
+  height: 145px;
+  position: absolute;
+  top: 720px;
+  left: -190px;
+  border: 1px solid #D6B25E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+  font-size: 5px;
+  font-weight: 200;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #757575;
+  
+  
+}
+#boox-img{
+  width: 43.57px;
+  height: 40px;
+  margin-top: 20px;
+  position: relative;
+  left: 96px;
+  margin-right: 180px;
+
+}
+#para1{
+  width: 163px;
+  height: 51px;
+}
+
+#boox1{
+  width: 235px;
+  height: 145px;
+  position: absolute;
+  top: 720px;
+  left: 80px;
+  border: 1px solid #D6B25E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+  font-size: 5px;
+  font-weight: 200;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #757575;
+}
+#boox1-img{
+  width: 31.8;
+  height: 40px;
+ 
+  margin-top: 20px;
+  position: relative;
+  left: 96px;
+  margin-right: 180px;
+}
+#para2{
+  font-family: 'Roboto';
+  width: 163px;
+  height: 51px;
+  text-align: center;
+  
+}
+#boox2{
+  width: 235px;
+  height: 145px;
+  position: absolute;
+  top: 900px;
+  left: -190px;
+  border: 1px solid #D6B25E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+  font-size: 5px;
+  font-weight: 200;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #757575;
+}
+#boox2-img{
+  width: 33.53px;
+height: 40px;
+  margin-top: 20px;
+  position: relative;
+  left: 96px;
+  margin-right: 180px;
+}
+#para3{
+  font-family: 'Roboto';
+  width: 163px;
+  height: 51px;
+  text-align: center;
+  
+}
+#boox3{
+  width: 235px;
+  height: 145px;
+  position: absolute;
+  top: 900px;
+  left: 80px;
+  border: 1px solid #D6B25E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+  font-size: 5px;
+  font-weight: 200;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #757575;
+}
+#boox3-img{
+  width: 33.53px;
+height: 40px;
+  margin-top: 20px;
+  position: relative;
+  left: 96px;
+  margin-right: 180px;
+}
+#para4{
+  font-family: 'Roboto';
+  width: 163px;
+  height: 51px;
+  text-align: center;
+  
+}
+#btn{
+  
+  
+    width: 180px;
+    height: 48px;
+    top: 409px;
+    left: 920px;
+   
+    gap: 5px;
+    background: #2B2E66;
+  margin-top: 1900px;
+    text-align: center;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+   margin-left: -520px;
+  float:left;
+  
+
+  
+  
+  }
+  
+  
+#body{
+  margin-left: 40px;
+}
